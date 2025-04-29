@@ -2,8 +2,6 @@
 
 This project solves a **binary classification problem** using a dataset of **9,000 rows and 11 features** (numerical and categorical). The goal is to predict a binary target variable (`0` or `1`) through preprocessing, feature engineering, model building, and explainability techniques.
 
----
-
 ## Data Preprocessing
 
 - Removed outliers in one step using a custom trimming function across all numeric columns.
