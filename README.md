@@ -1,4 +1,4 @@
-# Machine Learning Binary Classification Project
+### Machine Learning Binary Classification Project
 
 This project solves a **binary classification problem** using a dataset of **9,000 rows and 11 features** (numerical and categorical). The goal is to predict a binary target variable (`0` or `1`) through preprocessing, feature engineering, model building, and explainability techniques.
 
